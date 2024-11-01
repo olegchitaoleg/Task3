@@ -1,0 +1,4 @@
+#"3rd program"
+print a (2 * 2 + 2)
+print b (2 * (2 + 2))
+print(a == b)
